@@ -1,0 +1,48 @@
+body{
+    background-color: #96c9ec;
+    color: rgb(85, 64, 64);
+    font-family:Arial, Helvetica, sans-serif,sans-serif;
+    font-size: 18px;
+    }
+
+    #contenido{
+        width: 100%;
+        height:100%;
+        }
+
+            #tidedis{
+        float: left;
+        width: 650px;
+        border-color: #A7A1AE;
+        border-right-style: solid;
+            }
+
+
+            #desc{
+        width:100%;
+        height: inherit;
+        -webkit-border-radius: 20PX
+-moz-border-radius: 20px; 
+border-radius: 20px;
+border-left: 1px;
+} 
+
+
+ul{
+    list-style: none;
+    margin-top: 0;
+}
+
+.encabezado{
+    height: 70px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    border-radius: 0px;
+    border: 0px;
+    background-color: rgb(66, 61, 61);
+    
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    }
